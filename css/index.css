@@ -158,7 +158,6 @@ infor
 .leading{
 	line-height:170%;
 	padding:65px 60px;
-	padding-right:80px;
 }
 .leading h1{
 	font-size:30px;
@@ -344,7 +343,7 @@ PRODUCT
 */
 #product{
 	background:#FAFAFA;
-	height:310vh;
+	height:340vh;
 	margin-bottom: 100px;
 	text-align:center;
 }
