@@ -393,7 +393,7 @@ PRODUCT
 .tab-pro{
 	display:flex;
 	justify-content: space-around;
-	height:0;
+	height:20px;
 }
 .tablinks{
 	margin:0 10px;
