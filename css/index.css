@@ -636,10 +636,10 @@ BACK-TO-TOP
 }
 @media screen and (max-width:415px){
 	#about{
-		height:220vh;
+		height:270vh;
 	}
 	#story{
-		height:100vh
+		height:60vh
 	}
 	#story .content{
 		display:none
@@ -649,7 +649,7 @@ BACK-TO-TOP
 		width:100%;
 	}
 	#project{
-		height:340vh;
+		height:300vh;
 	}
 	.content-da{
 		height:100%
@@ -678,10 +678,13 @@ BACK-TO-TOP
 		font-size:15px;
 	}
 	#contact{
-		height:1600px;
+		height:1150px;
 	}
 	#footer{
 		height:70vh;
 		padding: 30px 0;
+		text-align:center;
+		line-height: 2;
 	}
+	
 }
